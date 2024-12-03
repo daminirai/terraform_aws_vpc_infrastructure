@@ -1,28 +1,32 @@
-"Setting up Infrastructure on AWS using Terraform"
-
-Project Overview
+**"Setting up Infrastructure on AWS using Terraform"**
+In this project, I created resources like VPCs, subnets, EC2 instances, and even an S3 bucket to host objects.
+# Project Overview
 Here’s what I built using Terraform:
 
-VPC (Virtual Private Cloud)
+1.VPC (Virtual Private Cloud)
 
-Public Subnets (Subnet1, Subnet2)
+2.Public Subnets (Subnet1, Subnet2)
 
-Internet Gateway for connectivity
+3.Internet Gateway for connectivity
 
-Route Table and Subnet Association for network routing
+4.Route Table and Subnet Association for network routing
 
-EC2 Instances (Server 1 & Server 2)
+5.EC2 Instances (Server 1 & Server 2)
 
-Target Group for load balancing
+6.Target Group for load balancing
 
-Security Group for secure access
+7.Security Group for secure access
 
-S3 Bucket for storage
+8.S3 Bucket for storage
 
-Objects in the S3 Bucket
+9.Objects in the S3 Bucket
 
-Accessing the application through the public site
+10.Accessing the application through the public site
 
+** During this project, I faced several challenges, including:**
+ 1️⃣ Setting up IAM Roles for S3 access.
+ 2️⃣ Resolving errors while making the S3 bucket public using bucket policies and ACLs.
+ 3️⃣ Troubleshooting ownership control issues while uploading objects to the S3 bucket.
 
 
 
