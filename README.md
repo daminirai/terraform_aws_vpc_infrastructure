@@ -2,8 +2,7 @@
 Created AWS infrastructure along with multiple AWS services like VPC, subnets, S3 buckets and loadbalancer
 1. Added load balancer to manage the requests 
 2. Understanding the structure of terraform resources
-3. Automate the deployment of AWS infrastructre
-4. 
+3. Automate the deployment of AWS infrastructre 
 # Project Overview
 Here’s what I built using Terraform:
 
